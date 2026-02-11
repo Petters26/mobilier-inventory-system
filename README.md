@@ -22,7 +22,7 @@ To run this prototype locally, ensure you have Python installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/mobilier-inventory-system.git](https://github.com/your-username/mobilier-inventory-system.git)
+   git clone https://github.com/Petters26/mobilier-inventory-system.git
    cd mobilier-inventory-system
 
 2. **Install Dependencies**
