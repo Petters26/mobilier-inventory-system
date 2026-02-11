@@ -1,0 +1,4 @@
+customtkinter
+tkcalendar
+babel
+python-dotenv
